@@ -1,0 +1,2 @@
+﻿  p1.cpp
+C:\Users\caded\source\repos\Project 1\Project 1\p1.cpp(70): error C4700: uninitialized local variable 'num_unique_identifiers' used
